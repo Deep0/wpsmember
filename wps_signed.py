@@ -7,7 +7,7 @@ import urllib3
 
 urllib3.disable_warnings()
 sid ='V02******'#签到用户的sid
-# sid = "V02SVweWGraVo68dHBZbuxBtUf0OCQs00a165bbb003a5b8c18"
+# sid = "V02**********"
 url = "https://zt.wps.cn/2018/clock_in/api/clock_in?member=wps"
 headers={
     'Host': 'zt.wps.cn',
